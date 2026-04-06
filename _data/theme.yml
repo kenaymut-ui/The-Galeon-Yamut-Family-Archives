@@ -37,7 +37,7 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 ##########
 # TIMELINE PAGE
 #
-year-navigation: 1936;2009;2013;2014;2018;2022;2026" # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: "1936;2009;2013;2014;2018;2022;2026" # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 7 # set increments when auto gen nav years
 
 ##########
